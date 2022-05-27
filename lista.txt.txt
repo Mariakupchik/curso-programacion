@@ -1,1 +1,3 @@
-manzana
+manzana 
+pan 
+lechuga

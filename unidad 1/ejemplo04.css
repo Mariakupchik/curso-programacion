@@ -1,0 +1,14 @@
+.caja {
+    color: red;
+    font-size: 20px;
+    width: 300px;
+    background-color: yellow;
+    text-align: center;
+    padding: 20px;
+    border-radius:20px ;
+    box-shadow: 0px 0px 5px black;
+}
+.caja i{
+    color: blue;
+    font-size: 120px;
+}
